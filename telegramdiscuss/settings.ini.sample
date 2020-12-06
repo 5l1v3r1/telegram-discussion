@@ -1,0 +1,6 @@
+[discussion]
+QA_GROUP = ID or Name
+DISCUSS_CHANNEL = ID or Name
+DISCUSS_GROUP = ID or Name
+MSG_COMMAND = REPLY_COMMAND
+
